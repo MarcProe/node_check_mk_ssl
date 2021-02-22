@@ -1,3 +1,4 @@
+[![CodeQL](https://github.com/MarcProe/node_check_mk_ssl/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/MarcProe/node_check_mk_ssl/actions/workflows/codeql-analysis.yml)
 # Simple test to get a rating for a HTTPS website from ssllabs.com, for use in check_mk
 
 Use https://badssl.com/ for test cases.
