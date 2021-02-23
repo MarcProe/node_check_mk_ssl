@@ -2,7 +2,7 @@
 # nodecheckssl
  Simple test to get a rating for a HTTPS website from ssllabs.com, for use in check_mk
 
-Use https://badssl.com/ for test cases.
+Use <https://badssl.com/> for test cases.
 
 # Installation
 
