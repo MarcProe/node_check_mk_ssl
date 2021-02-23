@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const ssllabs = require("node-ssllabs");
 
 const hostname = process.argv[2];

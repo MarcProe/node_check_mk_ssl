@@ -8,6 +8,9 @@
     },
     "author": "",
     "license": "ISC",
+    "bin": {
+        "nodecheckssl": "./index.js"
+    },
     "dependencies": {
         "node-ssllabs": "^2.1.0"
     }
